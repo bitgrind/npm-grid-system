@@ -1,0 +1,19 @@
+{
+  "name": "npm-bitgrind-grid-system",
+  "version": "1.0.0",
+  "description": "Grid System for Angular5+",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bitgrind/npm-grid-system.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bitgrind/npm-grid-system/issues"
+  },
+  "homepage": "https://github.com/bitgrind/npm-grid-system#readme"
+}
